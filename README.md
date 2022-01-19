@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Profile Summary
 
-You can use the [editor on GitHub](https://github.com/ManojBhatSirsi/ManojBhat019.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ASP.Net C# developer with 4 years of exhaustive experience in building, configuring and testing multiple single page and large scale applications with Azure and AWS integrations. Strong knowledge of SQL and Cloud concepts(Azure) to go with operations and DevOps inclusion. 
 
 ### Markdown
 
